@@ -1,4 +1,6 @@
-## The Boeing Company
+# Sam Nache
+
+### The Boeing Company
 
 **Start**: June 2014
 
@@ -16,7 +18,7 @@
     and tooling into traditional network operations
     
     
-## SIUC Department of Public Safety
+### SIUC Department of Public Safety
 
 **Start**: May 2012
 
