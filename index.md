@@ -59,4 +59,8 @@
 ### B.S. Information Systems Technologies
 **From**: Southern Illinois University Carbondale
 
+## Certifications
+
+  - Cisco Certified Entry Networking Technician
+  - Cisco Certified Network Associate
 
