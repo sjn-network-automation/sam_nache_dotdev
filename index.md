@@ -53,8 +53,10 @@
 
 ## Education
 
-### M.S. Computer Information Systems @ Boston University
+### M.S. Computer Information Systems 
+From: Boston University
 
-### B.S. Information Systems Technologies @ Southern Illinois University Carbondale
+### B.S. Information Systems Technologies
+From: Southern Illinois University Carbondale
 
 
