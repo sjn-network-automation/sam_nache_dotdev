@@ -18,7 +18,7 @@
     and tooling into traditional network operations
     
     
-### SIUC Department of Public Safety
+### [SIUC Department of Public Safety](https://dps.siu.edu/)
 
 #### Technical Student Worker
 
@@ -35,7 +35,7 @@
   - Translate technical statuses for
     investigations personnel
     
-### United States Navy
+### [United States Navy](https://www.navy.mil/)
 
 #### Information Systems Technician
 
