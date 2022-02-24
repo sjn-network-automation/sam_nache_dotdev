@@ -22,7 +22,7 @@
 
 #### Technical Student Worker
 
-Start: May 2012 - End: May 2014
+**Start**: May 2012 - **End**: May 2014
 
 **Statement of Work Examples**:
 
