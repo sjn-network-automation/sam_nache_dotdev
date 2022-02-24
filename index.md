@@ -22,7 +22,9 @@
 
 #### Technical Student Worker
 
-**Start**: May 2012     **End**: May 2014
+**Start**: May 2012
+
+**End**: May 2014
 
 **Statement of Work Examples**:
 
@@ -32,3 +34,19 @@
     “in-house” and “on the street” technical issues
   - Translate technical statuses for
     investigations personnel
+    
+### United States Navy
+
+#### Information Systems Technician
+
+**Start**: March 2006
+
+**End**: March 2010
+
+**Statement of Work Examples**:
+
+  - Local area network administrator managing
+    245 user accounts
+  - Serve as the primary technician for
+    specialized Linux systems
+  - Directly responsible for junior personnel
