@@ -50,3 +50,11 @@
   - Serve as the primary technician for
     specialized Linux systems
   - Directly responsible for junior personnel
+
+## Education
+
+### M.S. Computer Information Systems @ Boston University
+
+### B.S. Information Systems Technologies @ Southern Illinois University Carbondale
+
+
