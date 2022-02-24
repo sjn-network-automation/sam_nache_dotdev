@@ -8,8 +8,6 @@
 
 **End**: Feburary 2022
 
-**Title**: Systems Integration and Design Specialist
-
 **Statement of Work Examples**:
 
   - Lead network automation and network
@@ -22,11 +20,9 @@
     
 ### SIUC Department of Public Safety
 
-**Start**: May 2012
+#### Technical Student Worker
 
-**End**: May 2014
-
-**Title**: Technical Student Worker
+Start: May 2012 - End: May 2014
 
 **Statement of Work Examples**:
 
