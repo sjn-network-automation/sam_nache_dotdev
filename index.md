@@ -10,9 +10,9 @@
 
 **Statement of Work Examples**:
 
-  - 
-  - 
-  -
+  - .
+  - .
+  - .
 
 ### [The Boeing Company](https://www.boeing.com/)
 
