@@ -10,9 +10,13 @@
 
 **Statement of Work Examples**:
 
-  - .
-  - .
-  - .
+  - Lead network automation and network
+    analytics integration and development teams
+  - Conduct research, gather requirements,
+    identify solutions and define strategies
+  - Integrate software development processes
+    and tooling into traditional network operations
+    
 
 ### [The Boeing Company](https://www.boeing.com/)
 
