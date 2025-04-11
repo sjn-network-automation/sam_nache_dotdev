@@ -1,12 +1,26 @@
 ## Experience
 
+### [Mastercard] (http://www.mastercard.com/)
+
+#### Lead, Platform Architect
+
+**Start**: February 2022
+
+**End**: Current
+
+**Statement of Work Examples**:
+
+  - 
+  - 
+  -
+
 ### [The Boeing Company](https://www.boeing.com/)
 
 #### Systems Integration and Design Specialist
 
 **Start**: June 2014
 
-**End**: Feburary 2022
+**End**: February 2022
 
 **Statement of Work Examples**:
 
