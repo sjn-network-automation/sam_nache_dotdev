@@ -1,6 +1,6 @@
 ## Experience
 
-### [Mastercard] (http://www.mastercard.com/)
+### [Mastercard](http://www.mastercard.com/)
 
 #### Lead, Platform Architect
 
